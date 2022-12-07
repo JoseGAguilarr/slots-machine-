@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(212, 175, 55);
+}
+
+#board {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 700px;
+    background-color: gold;
+
+}
+
+.slots {
+    display: flex;
+
+}
+
+.slot1 {
+
+    background-color: white;
+
+}
+
+.slot2 {
+
+    background-color: gray;
+}
+
+.slot3 {
+
+    background-color: white;
+
+}
+
+.button1 {
+    color: black;
+    background-color: gold;
+}
+
+
+.results {
+    color: white;
+    font-size: larger;
+}
