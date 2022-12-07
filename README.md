@@ -33,4 +33,10 @@ ___
 
 ---
 
+##icebocx
 
+-add credits
+-spinnig animation 
+-add some audio 
+-add a lever 
+-more pictures 
