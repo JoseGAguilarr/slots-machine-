@@ -6,7 +6,7 @@
  ---
 ##Description
 
-    Slots Machine to win you have to spin till you get a maching combo 
+    Slots Machine to start game user has to press the spin button once spinned if the user gets 3 slots matching the user has won the game if the slots are not matching it will display to try again
 
  ---
 
@@ -22,14 +22,9 @@ ___
 
 ##Link to game 
 
-- https://github.com/JoseGAguilarr/slots-machine-.git
+- https://josegaguilarr.github.io/slots-machine-/
 
----
-
-##Screenshots
-
--
-
+- https://github.com/JoseGAguilarr/slots-machine-.git/
 
 ---
 
